@@ -1,7 +1,10 @@
-#one time each project to start git
+#1. one time each project to start git
 git init  #initialize git
+#2. every time to add something
 git add . #. means select all file to change
+#3.every time you commit 
 git commit -m "first commit"
 git branch -M main
+#every single repository you shall write that.
 git remote add origin https://github.com/Shakhawat01/my-first-github.git
 git push -u origin main
